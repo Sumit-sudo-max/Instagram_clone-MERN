@@ -1,0 +1,27 @@
+.post {
+    /* left:19%;
+    padding : 10px;
+    border: 2px solid lightgray;
+    border-bottom:0;
+    width:65%; */
+      border-radius: 3px;
+      border: 2px solid #e6e6e6;
+      background-color: #fff;
+      margin-bottom: 0px;
+      margin-left : 20%;
+      margin-right: 20%;
+      width : 65%;
+    }
+  
+  .post__header{
+    padding: 10px;
+  }
+    
+  .post__image {
+    width: 100%;
+  }
+  .post__text {
+    font-weight: normal;
+    padding: 15px 20px;
+  }
+  
